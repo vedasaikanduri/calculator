@@ -1,5 +1,5 @@
 
-# Calculator Lab Project
+# University Calculator Lab Project
 
 A simple Python calculator developed for the SCCM4910 DevOps module.
 
